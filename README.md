@@ -39,6 +39,20 @@ Solution :
 
 # IMDB Streaming Application
 
+Folder Structure
+
+├── imdb-streaming-app/
+    ├── src/
+        ├── main.py
+        ├── processor.py
+        
+    ├── tests/
+        ├── test_processor.py
+       
+    ├── README.md
+    ├── requirements.txt
+
+
 ## Overview
 This application processes IMDB datasets to:
 1. Retrieve the top 10 movies based on a ranking formula.
