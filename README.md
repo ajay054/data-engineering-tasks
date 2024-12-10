@@ -42,6 +42,7 @@ Solution :
 Folder Structure
 
 ├── imdb-streaming-app/
+
     ├── src/
         ├── main.py
         ├── processor.py
